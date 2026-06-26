@@ -374,6 +374,23 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
+## 📞 Contact
+
+- **Issues**: [GitHub Issues](https://github.com/zhsj0089944/roblox-game-studios/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/zhsj0089944/roblox-game-studios/discussions)
+- **X (Twitter)**: [@FaucetCgei](https://x.com/FaucetCgei)
+- **Email**: zhsj0089@gmail.com
+
+---
+
+## ☕ Support
+
+If you find this project helpful, consider buying me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J8F021ITTG)
+
+---
+
 ## 🌟 Star History
 
 If you find this project helpful, please give it a star! ⭐
@@ -569,8 +586,17 @@ AI 是顾问，用户是决策者。
 ## 📞 联系我们
 
 - **Issues**: [GitHub Issues](https://github.com/zhsj0089944/roblox-game-studios/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/zhsj0089944/roblox-game-studios/discussions)
-- **Twitter**: [@musiersj]
+- **讨论**: [GitHub Discussions](https://github.com/zhsj0089944/roblox-game-studios/discussions)
+- **X (Twitter)**: [@FaucetCgei](https://x.com/FaucetCgei)
+- **邮箱**: zhsj0089@gmail.com
+
+---
+
+## ☕ 请我喝咖啡
+
+如果这个项目对你有帮助，请我喝杯咖啡！
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J8F021ITTG)
 
 ---
 
