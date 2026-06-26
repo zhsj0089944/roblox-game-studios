@@ -1,0 +1,54 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+*.rbxl
+*.rbxm
+*.rbxlx
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Node modules (if using any build tools)
+node_modules/
+package-lock.json
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Test files
+test-output/
+coverage/
+
+# Documentation builds
+docs/build/
+site/
+
+# Local configuration
+config.local.json
+.env
+.env.local
+
+# Roblox Studio local files
+*.rbxl.*
+!*.rbxlx
