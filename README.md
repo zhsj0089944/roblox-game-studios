@@ -76,7 +76,7 @@ Inspired by [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/roblox-game-studios.git
+git clone https://github.com/zhsj0089944/roblox-game-studios.git
 
 # Copy to your skills directory
 cp -r roblox-game-studios/skills/* /path/to/your/skills/directory/
@@ -378,7 +378,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 If you find this project helpful, please give it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/roblox-game-studios&type=Date)](https://star-history.com/#YOUR_USERNAME/roblox-game-studios&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zhsj0089944/roblox-game-studios&type=Date)](https://star-history.com/#zhsj0089944/roblox-game-studios&Date)
 
 ---
 
@@ -441,7 +441,7 @@ If you find this project helpful, please give it a star! ⭐
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/roblox-game-studios.git
+git clone https://github.com/zhsj0089944/roblox-game-studios.git
 
 # 复制到你的技能目录
 cp -r roblox-game-studios/skills/* /path/to/your/skills/directory/
@@ -568,9 +568,9 @@ AI 是顾问，用户是决策者。
 
 ## 📞 联系我们
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/roblox-game-studios/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/roblox-game-studios/discussions)
-- **Twitter**: [@YOUR_TWITTER]
+- **Issues**: [GitHub Issues](https://github.com/zhsj0089944/roblox-game-studios/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/zhsj0089944/roblox-game-studios/discussions)
+- **Twitter**: [@musiersj]
 
 ---
 

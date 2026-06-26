@@ -144,7 +144,7 @@ None yet! This is the initial release.
 
 Thank you to all contributors who have helped make Roblox Game Studios better!
 
-- [YOUR_NAME] — Creator and maintainer
+- [Cgei] — Creator and maintainer
 - [Contributors will be added here]
 
 ---
